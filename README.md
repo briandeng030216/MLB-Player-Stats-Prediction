@@ -1,7 +1,7 @@
 # MLB-Player-Stats-Prediction
 
 ### Introduction
-This project is designed to build model to predict MLB players regular season statistics from their March and April performances. Since after March and April, most teams will know their position and goal of the entire season, so this prediction could be used for providing trading suggestion to increase teams' power ranking. And for sportsbook companies and sports trader, they could use this prediction to adjust their odds or strategies to gain more profits. <br>
+- This project is designed to build model to predict MLB players regular season statistics from their March and April performances. Since after March and April, most teams will know their position and goal of the entire season, so this prediction could be used for providing trading suggestion to increase teams' power ranking. And for sportsbook companies and sports trader, they could use this prediction to adjust their odds or strategies to gain more profits. <br>
 
 ### File and Folder
 - Folder: data <br>
