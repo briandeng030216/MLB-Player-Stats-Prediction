@@ -5,7 +5,7 @@
 
 ### File and Folder
 - Folder: data <br>
-All the original data files are stored in the folder data. There are two more folders inside: batting and pitching. Batting folder contains all the batting data files, and pitching folder contains all the pitching data files. All the files are .csv format and downloaded from FanGrapjs website. <br>
+All the original data files are stored in the folder data. There are two more folders inside: batting and pitching. Batting folder contains all the batting data files, and pitching folder contains all the pitching data files. All the files are .csv format and downloaded from FanGraphs website. <br>
 
 - File: data_description.txt <br>
 This file contains the brief description and some explaination of data. <br>
