@@ -2,27 +2,31 @@
 # year_March_April.csv
 #
 # This dataset has the corresponding year MLB batting or 
-pitching(based on stored folder) March and April regular season stats.
+# pitching(based on stored folder) March and April regular 
+# season stats.
 # Each row represents a player.
 # ---------------------------------------------------------
 
 # ---------------------------------------------------------
 # year_batting.csv
 #
-# This dataset has the corresponding year MLB regular season batting stats.
+# This dataset has the corresponding year MLB regular 
+# season batting stats.
 # Each row represents a batter.
 # ---------------------------------------------------------
 
 # ---------------------------------------------------------
 # year_pitching.csv
 #
-# This dataset has the corresponding year MLB regular season pitching stats.
+# This dataset has the corresponding year MLB regular 
+# season pitching stats.
 # Each row represents a pitcher.
 # ---------------------------------------------------------
 
 ### SEASONS ###
 
-All the training dataset are from 2015 to 2023 without 2020, since due to COVID-19, this year regular season was shortened.
+All the training dataset are from 2015 to 2023 without 2020,
+since due to COVID-19, this year regular season was shortened.
 
 ### Advanced Variable Explanation ###
 
