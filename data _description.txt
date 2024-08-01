@@ -1,7 +1,8 @@
 # ---------------------------------------------------------
 # year_March_April.csv
 #
-# This dataset has the corresponding year MLB batting or pitching(based on stored folder) March and April regular season stats.
+# This dataset has the corresponding year MLB batting or 
+pitching(based on stored folder) March and April regular season stats.
 # Each row represents a player.
 # ---------------------------------------------------------
 
